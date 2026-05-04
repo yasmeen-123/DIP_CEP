@@ -1,0 +1,9 @@
+{
+    "Average FPS": 5.850718357470672,
+    "Lane Detection Rate": 100.0,
+    "Average Obstacles": 5.970873786407767,
+    "Decision Distribution": {
+        "FORWARD": 714,
+        "STOP": 110
+    }
+}
